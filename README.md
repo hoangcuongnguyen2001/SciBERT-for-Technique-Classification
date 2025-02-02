@@ -7,7 +7,7 @@ By training this model with a new dataset, from [Barbaraci and Natella, 2022](ht
 
 The structure of our pipeline could be shown in this image (the pipeline number 4). ![image](https://github.com/user-attachments/assets/8db398da-5957-4e73-b22c-6d1f36c29b31)
 
-The paper has been accepted in The Web Conference 2025, under the name of **Towards Effective Identification of Attack Techniques in Cyber Threat Intelligence Reports using Large Language Models**.
+The paper has been accepted in The Web Conference 2025: https://www2025.thewebconf.org/, under the name of **Towards Effective Identification of Attack Techniques in Cyber Threat Intelligence Reports using Large Language Models**.
 An update for this paper would be available soon, once it is camera-ready.
 
 For further information about my own works, please look at my thesis here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing).
