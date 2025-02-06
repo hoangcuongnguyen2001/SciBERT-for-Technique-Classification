@@ -8,6 +8,16 @@ By training this model with a new dataset, from [Barbaraci and Natella, 2022](ht
 The structure of our pipeline could be shown in this image (the pipeline number 4). ![image](https://github.com/user-attachments/assets/8db398da-5957-4e73-b22c-6d1f36c29b31)
 
 The paper has been accepted in The Web Conference 2025: https://www2025.thewebconf.org/, under the name of **Towards Effective Identification of Attack Techniques in Cyber Threat Intelligence Reports using Large Language Models**.
-An update for this paper would be available soon, once it is camera-ready.
 
-For further information about my own works, please look at my thesis here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing).
+
+## Repository details
+
+This repository includes: 
+- Original CTI reports for analysis; this could be accessed from `Original_Reports` folder;
+- Google Colab notebook for extracting attack techniques names and examples from MITRE ATT&CK framework (from `mitre_attack_retrieve.ipynb` file).
+- Google Colab notebooks deployed for the final pipeline (number 4 in the image shown above). This could be accessed from `Colab_Notebooks/Fine_tune_SciBERT_for_new_pipelines.ipynb`. Another attempt (without rebalancing data) is shown in `Colab_Notebooks/Fine_tune_SciBERT_for_CTI_analysis_from_TRAM.ipynb`.
+- Comparison between the results of different pipelines. This could be accessed from `Colab_Notebooks/Graph_comparison.ipynb`.
+
+Anyone could run the Colab notebooks standalone, since the data has been made available in Google Drive. Please note that the related data contains data from my thesis and some could not make it into the research paper.
+
+For further information about my own works, please look at my thesis here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
