@@ -17,7 +17,8 @@ This repository includes:
 - Google Colab notebook for extracting attack techniques names and examples from MITRE ATT&CK framework (from `mitre_attack_retrieve.ipynb` file).
 - Google Colab notebooks deployed for the final pipeline (number 4 in the image shown above). This could be accessed from `Colab_Notebooks/Fine_tune_SciBERT_for_new_pipelines.ipynb`. Another attempt (without rebalancing data) is shown in `Colab_Notebooks/Fine_tune_SciBERT_for_CTI_analysis_from_TRAM.ipynb`.
 - Comparison between the results of different pipelines. This could be accessed from `Colab_Notebooks/Graph_comparison.ipynb`.
-
+- The training dataset `training_dataset.json` is based on `TRAM_fine-tuned.json` (the result from rebalancing dataset by GPT-3.5) and `TRAM_fine-tuned_SciBERT.json` (the initial dataset).
+  
 Anyone could run the Colab notebooks standalone, since the data has been made available in Google Drive. Please note that the related data contains data from my thesis and some could not make it into the research paper.
 
 For further information about my own works, please look at my thesis here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
