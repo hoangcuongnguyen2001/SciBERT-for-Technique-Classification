@@ -1,5 +1,5 @@
 # SciBERT Fine-tuned for Cyber Attack Technique Classification
-This is my repository of code and data for my Honours projects: **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**. This is my training pipeline for SciBERT (a Large Language Model based on BERT): [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676).
+This is my repository of code and data for my Honours projects: **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, with a fine-tuning pipeline for SciBERT (a Large Language Model based on BERT): [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676).
 
 This Large Language Model is used to extract attack techniques from threat intelligence reports, as a basis for TRAM program: [TRAM](https://github.com/center-for-threat-informed-defense/tram) from Center of Threat-Informed Defense by MITRE Corporation. 
 
