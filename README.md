@@ -7,7 +7,7 @@ By fine-tuning this model with a new dataset, from [Barbaraci and Natella, 2022]
 
 The structure of our pipeline could be shown in this image (the pipeline number 4). ![image](https://github.com/user-attachments/assets/8db398da-5957-4e73-b22c-6d1f36c29b31)
 
-The paper is a part of my Honours projects: **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, 
+
 
 ## Repository details
 
@@ -20,4 +20,4 @@ This repository includes:
   
 Anyone could run the Colab notebooks standalone, since the data has been made available in Google Drive. Please note that the related data contains data from my thesis and some could not make it into the research paper.
 
-For further information about my own works, please look at my thesis here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
+For further information about my own works, please look at my thesis ( **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, which my paper is a part of) here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
