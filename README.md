@@ -20,4 +20,26 @@ This repository includes:
   
 Anyone could run the Colab notebooks standalone, since the data has been made available in Google Drive. Please note that the related data contains data from my thesis and some could not make it into the research paper.
 
+## Paper
+
+This work has been accepted to the short paper track of The Web Conference 2025! [Click to read the paper!](https://dl.acm.org/doi/10.1145/3701716.3715469) 
+If you decide to cite our resource, please cite: 
+
+```
+  @inproceedings{hoangcuongnguyen2025,
+        title={Towards Effective Identification of Attack Techniques in Cyber Threat Intelligence Reports using Large Language Models},
+        author={Nguyen, Hoang Cuong and Tariq, Shahroz and Baruwal Chhetri, Mohan and Quoc Vo, Bao},
+        year={2025},
+        booktitle={Companion Proceedings of the ACM on Web Conference (WWW)},
+        month = may,
+        year = "2025",
+        publisher = "Association for Computing Machinery",
+        url = "https://dl.acm.org/doi/10.1145/3701716.3715469",
+        pages = "942--946",
+    }
+
+```
+
+## Further information
+
 For further information about my own works, please look at my thesis ( **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, which my paper is a part of) here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
