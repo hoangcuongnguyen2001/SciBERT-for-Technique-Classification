@@ -39,7 +39,8 @@ If you decide to cite our resource, please cite:
     }
 
 ```
+The paper is also available on arXiv here: ```https://arxiv.org/abs/2505.03147``` or 	```arXiv:2505.03147```
 
 ## Further information
 
-For further information about my own works, please look at my thesis ( **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, which my paper is a part of) here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile.
+For further information about my own works, please look at my thesis ( **Analysing Technique Classification Performance of Cyber Threat Intelligence Extractors**, which my paper is a part of) here: (https://drive.google.com/file/d/1XVyrp7QPhTO1ETJA6rOYtpVwLV0XBY82/view?usp=sharing), or in the `Analysing Technique Classification Performance.pdf` file. For any further questions, please contact my email address in GitHub profile, or Shahroz Tariq: ```shahroz.tariq@data61.csiro.au```.
