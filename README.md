@@ -1,3 +1,10 @@
+---
+license: mit
+arxiv: "2505.03147"
+---
+
+
+
 # SciBERT Fine-tuned for Cyber Attack Technique Classification
 This is my repository of code and data for the paper: **Towards Effective Identification of Attack Techniques in Cyber Threat Intelligence Reports using Large Language Models**, which was accepted in The Web Conference 2025: https://www2025.thewebconf.org/.
 
